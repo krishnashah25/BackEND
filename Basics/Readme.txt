@@ -9,5 +9,6 @@
     -> PATCH : Jab data server pe already ho , or usko update karnaho
     -> DELETE : jab server par data ho or usse delete karna ho 
 
-connection link -  mongodb+srv://1st-user:IPlDdo4xwHxvy4h9@cluster-backend.bmdf5by.mongodb.net/
-password - IPlDdo4xwHxvy4h9
+-> CLuster & data base connectivity
+    -> connection link - mongodb+srv://1st-user:IPlDdo4xwHxvy4h9@cluster-backend.bmdf5by.mongodb.net/
+    -> password - IPlDdo4xwHxvy4h9
