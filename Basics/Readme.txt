@@ -12,3 +12,10 @@
 -> CLuster & data base connectivity
     -> connection link - mongodb+srv://1st-user:IPlDdo4xwHxvy4h9@cluster-backend.bmdf5by.mongodb.net/
     -> password - IPlDdo4xwHxvy4h9
+
+-> crud operations 
+    -> Create - POST
+    -> Read - GET
+    -> Update - PATCH
+    -> Delete - DELETE
+
