@@ -3,6 +3,9 @@ const app = express()
 const postModel = require("./models/node.model")
 const multer = require("multer")
 const uploadfile = require("./services/storage.service")
+const cors = require("cors")
+
+app.use(cors())
 
 const upload = multer({ storage : multer.memoryStorage() })
 
